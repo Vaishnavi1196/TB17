@@ -7,6 +7,10 @@ System.out.println("Hello A");
 	}
 public void m2() 
 {
-	System.out.println("M2")
+	System.out.println("M2");
 }
+	public void m3()
+	{
+		int a+b;
+	}
 }
